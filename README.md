@@ -82,4 +82,4 @@ Falls Sie eigene Ideen haben, die Sie gerne umsetzen möchten, können Sie das m
 ## Termine
 - Abgabe über Moodle bis Ende des Semesters (7. Mai)
   - Als Zip-Datei mit dem Code, Link zu Git-Repo o.Ä.
-- Prüfungsgespräche ab Montag, 19. April bis zur Abgabe.
+- Prüfungsgespräche nach Absprache bis zum Abgabetermin.
