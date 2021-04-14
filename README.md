@@ -32,7 +32,7 @@ Außerdem sollen Sie das Spiel und ggf. neue Hilfsfunktionen dokumentieren und t
  - Reversi
  - Schiffe Versenken
  - TicTacToe-Erweiterungen
-   - z.B. 9x9-Feld oder [https://ultimatetictactoe.creativitygames.net/](Ultimate TicTacToe)
+   - z.B. 9x9-Feld oder [Ultimate TicTacToe](https://ultimatetictactoe.creativitygames.net/)
 
 Dies sind nur Ideen, Sie sind grundsätzlich frei in der Wahl des Spiels.
 Falls Sie eigene Ideen haben, die Sie gerne umsetzen möchten, können Sie das machen.
