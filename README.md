@@ -9,6 +9,7 @@ entwickeln, dabei die vorhandenen Funktionen verwenden, anpassen und ggf.
 neue Funktionen hinzufügen.
 Außerdem sollen Sie das Spiel und ggf. neue Hilfsfunktionen dokumentieren und testen.
 
+
 ## Aufgabe: Entwicklung eines weiteren Spiels auf Basis der Hilfsfunktionen aus der Vorlesung.
 
 - Entwickeln Sie ein Spiel in Python auf Basis der Hilfsfunktionen aus der Vorlesung.
@@ -37,6 +38,7 @@ Außerdem sollen Sie das Spiel und ggf. neue Hilfsfunktionen dokumentieren und t
 Dies sind nur Ideen, Sie sind grundsätzlich frei in der Wahl des Spiels.
 Falls Sie eigene Ideen haben, die Sie gerne umsetzen möchten, können Sie das machen.
 
+
 ## Bewertungskriterien
 
 - Funktionalität
@@ -59,6 +61,11 @@ Falls Sie eigene Ideen haben, die Sie gerne umsetzen möchten, können Sie das m
   - Haben Variablen sprechende Namen?
   - Gibt es Kommentare im Code an Stellen, wo das notwendig erscheint?
   - Sind Einrückungen einheitlich, ist der Code insgesamt gut lesbar?
+- Programmierstil
+  - Gibt es Seiteneffekte, wurde funktional programmiert?
+    Zur Erinnerung: Das ist eine der Anforderungen.
+  - Schleifen und imperativer Stil sollten möglichst wenig vorkommen,
+    Generator-Ausdrücke, -Funktionen und List Comprehensions sind zu bevorzugen.
     
 
 ## Rahmenbedingungen
