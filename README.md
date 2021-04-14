@@ -69,6 +69,7 @@ Falls Sie eigene Ideen haben, die Sie gerne umsetzen möchten, können Sie das m
   vorstellen.
   - Ziel: Prüfung der Eigenständigkeit und Hilfestellung/Hinweise.
   - Die Aufgabe muss dabei noch nicht abgeschlossen sein.
+  - **Beim Prüfungsgespräch muss jeder Teilnehmer einen Beitrag leisten.**
 
 
 ## Termine
